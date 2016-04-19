@@ -17,7 +17,7 @@ title: chacha20-poly1305 encryption algorithm drafts
 ## Motivation
 
 When I first started implementing "chacha20-poly1305@openssh.com" I was
-greatly disappointed by the qualitify of the documentation.
+greatly disappointed by the quality of the documentation.
 
 Finding the draft "draft-josefsson-ssh-chacha20-poly1305-openssh-00" I
 hoped for some improvements, but it sadly is just the same document as
